@@ -1,0 +1,10 @@
+pandas
+numpy
+polars
+fastexcel
+matplotlib
+seaborn
+scikit-learn
+scipy
+scikit-fuzzy
+plotly
